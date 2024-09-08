@@ -1,4 +1,4 @@
-# Memory Forensics with Volatility in a Home Lab
+# Memory Forensics with Volatility in a Home Lab Setup
 
 ![Volatility](https://i.pinimg.com/564x/7c/48/52/7c48522b7cb63eaee4e9746c48c71a6c.jpg)
 
